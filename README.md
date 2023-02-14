@@ -4,11 +4,6 @@
 
 Debug Misc Helper, basic, simple and light
 
-## Version
-
-- [x] V1.x support all PHP version `>=5.3`
-- [x] V2.x support all PHP version `>=7.0`
-
 ## Contact & Support
 
 If any question & request, please contact following information
